@@ -1,0 +1,18 @@
+blockquote{
+    border:2px solid red;
+    background-color: yellow;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+h5{
+    font-size: 25px;
+}
+/* img{
+    height: 400px;
+    width: 600px;
+} */
+span{
+    color: chocolate;
+}
